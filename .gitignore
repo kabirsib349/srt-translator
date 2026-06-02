@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+venv/
+ENV/
+env/
+*.srt
+!Spider-Noir.S01E02.COLOR.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.srt
