@@ -2,6 +2,7 @@ services:
   - type: web
     name: srt-translator
     env: python
+    plan: free
     region: frankfurt # You can change this to ohio, oregon, etc.
     buildCommand: pip install -r requirements.txt
     startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
