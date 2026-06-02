@@ -2,6 +2,8 @@
 
 A professional web application designed to automatically translate English SubRip (.srt) subtitle files into French. The application provides a sleek, modern user interface with real-time translation progress.
 
+**Live Deployment:** [https://srt-translator-0mp2.onrender.com](https://srt-translator-0mp2.onrender.com)
+
 ## Features
 
 - Translates English subtitles to French using Google Translate (via deep-translator).
